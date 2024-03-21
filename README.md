@@ -2,7 +2,7 @@
 | ------ | ---------- | ------- | --------------- | -------------- |
 | Bhavin    | 21-03-24   | version 1 | Bhavin         | 21-03-24       |
 
-# Install Redis
+# Installation of Redis
 ### Today we will see how to install Redis, but before installing Redis let me introduce Redis to you.
 
 # Introduce
