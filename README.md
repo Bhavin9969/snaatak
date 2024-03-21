@@ -19,8 +19,21 @@ Now times, Redis is a best option for modern database, that you can use for your
 
        curl -fsSL https://packages.redis.io/gpg | sudo gpg --dearmor -o /usr/share/keyrings/redis-archive-keyring.gpg
        echo "deb [signed-by=/usr/share/keyrings/redis-archive-keyring.gpg] https://packages.redis.io/deb $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/redis.list
+
+![Screenshot from 2024-03-21 20-54-22](https://github.com/Bhavin0099/snaatak/assets/153531232/887b5f0f-367c-4983-b8bb-578a00eb818b)
+
        sudo apt-get update
+
+![Screenshot from 2024-03-21 20-55-32](https://github.com/Bhavin0099/snaatak/assets/153531232/9c38408d-1fb0-4a13-a95e-0f7df3d9cca2)
+
        sudo apt-get install redis
+
+![Screenshot from 2024-03-21 20-55-57](https://github.com/Bhavin0099/snaatak/assets/153531232/65d3fd95-bde6-448e-8abc-500924c55d52)
+
+Make sure you have to write " Y / y " to install Redis.
+
+![Screenshot from 2024-03-21 20-56-32](https://github.com/Bhavin0099/snaatak/assets/153531232/989b7577-3915-4aff-9b72-e9a832419e14)
+
 
 ### After using this command you will install Redis on you system, But if you are lazy and don't want to write this all commands then you can use another way...
 
