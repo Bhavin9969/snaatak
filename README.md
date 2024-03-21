@@ -1,3 +1,7 @@
+| Author | Created on | Version | Last updated by | Last edited on |
+| ------ | ---------- | ------- | --------------- | -------------- |
+| Bhavin    | 21-03-24   | version 1 | Bhavin         | 21-03-24       |
+
 # Install Redis
 ### Today we will see how to install Redis, but before installing Redis let me introduce Redis to you.
 
