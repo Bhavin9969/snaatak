@@ -41,5 +41,7 @@ Make sure you have to write " Y / y " to install Redis.
 
        sudo snap install redis
 
+The Snap is a command which is used to interact with the Snap system. It allows users to search for, install, update, and manage snaps on their system. Let me explain you more, The Snap is a software packaging and deployment system developed by Canonical, the company behind Ubuntu. It allows developers to package their applications and all their dependencies into a single, self-contained package called a "snap". These snaps can then be easily installed and managed on a wide range of Linux distributions that support the Snap system.
 
+If snap in not installed in your system 
    
