@@ -5,6 +5,8 @@
 # Installation of Redis
 ### Today we will see how to install Redis, but before installing Redis let me introduce Redis to you.
 
+<img src="https://media.licdn.com/dms/image/C4E12AQGFb-Nwc5lxzw/article-inline_image-shrink_1500_2232/0/1620932390472?e=1717027200&v=beta&t=opDw2tHAXHnpfxDhWRhmvpNo6KxQrmcL3ZV1ZWQjuZg" width="45%" height="20%"> 
+
 # Introduce
 Redis is an open-source, in-memory data structure store that can be used as a database, cache, and message broker. It supports various data structures such as strings, hashes, lists, sets, and sorted sets, and provides high-performance, distributed, and scalable data storage and retrieval capabilities. Redis is commonly used in web applications for caching, real-time analytics, job queue management, and other use cases where fast data access is critical.
 
